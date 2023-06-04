@@ -1,4 +1,5 @@
 These codes were developed for the master thesis -  'MULTIMODAL RECOMMENDATION SYSTEMS USING DEEP LEARNING TECHNIQUES'
+
 Amazon Pantry 5 Core Dataset was used for the experiment https://nijianmo.github.io/amazon/index.html.
 
 Code Flow
